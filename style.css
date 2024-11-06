@@ -585,3 +585,20 @@ footer{
     color: #e2d9ec;
     margin-bottom: 5px;
 }
+
+.discover-button {
+    display: inline-block;
+    padding: 20px 60px; 
+    background-color: #FF5A3C; 
+    color: #fff;
+    text-decoration: none;
+    border-radius: 50px; 
+    font-weight: bold; 
+    font-size: 16px;
+    text-align: center;
+    transition: background-color 0.3s ease;
+}
+
+.discover-button:hover {
+    background-color: #ff704d; 
+}
