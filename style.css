@@ -558,11 +558,11 @@ footer{
     margin: 0px 20px;
 }
 
-.footer-social{
+.footer-social {
     display: flex;
     justify-content: center;
-    align-items: center;
-    grid-gap: 20px;
+    gap: 25px; 
+    padding: 20px 0;
 }
 
 .footer-social a{
